@@ -27,9 +27,8 @@ function ChatThread() {
 
     fetchMessages(); // initial fetch
 
-    const intervalId = setInterval(fetchMessages, 400000); // poll every 3 seconds
-
-    return () => clearInterval(intervalId); // cleanup on unmount or userId/token change
+    const intervalId = setInterval(fetchMessages, 4000); 
+    return () => clearInterval(intervalId); 
   }, [userId, token]);
 
   // Auto scroll to bottom when messages update

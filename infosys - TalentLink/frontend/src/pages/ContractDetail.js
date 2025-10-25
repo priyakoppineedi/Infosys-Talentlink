@@ -133,7 +133,6 @@ function Contract() {
           </p>
         )}
 
-        <ProjectDetails projectId={contract.proposal.project_id}/>
 
         {isFreelancer && (
           <p
@@ -144,6 +143,8 @@ function Contract() {
             {contract.client_name}
           </p>
         )}
+        
+        <ProjectDetails projectId={contract.proposal.project_id}/>
       </div>
     </div>
   );
