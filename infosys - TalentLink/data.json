@@ -1,0 +1,2235 @@
+[
+{
+  "model": "admin.logentry",
+  "pk": 1,
+  "fields": {
+    "action_time": "2025-11-09T11:36:06.961Z",
+    "user": 1,
+    "content_type": 17,
+    "object_id": "30",
+    "object_repr": "freelancer (freelancer) left you a review (⭐ 5) → Sarat (client)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 2,
+  "fields": {
+    "action_time": "2025-11-09T11:36:06.961Z",
+    "user": 1,
+    "content_type": 17,
+    "object_id": "29",
+    "object_repr": "freelancer (freelancer) left you a review (⭐ 5) → Indumati (client)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 3,
+  "fields": {
+    "action_time": "2025-11-09T11:36:06.961Z",
+    "user": 1,
+    "content_type": 17,
+    "object_id": "27",
+    "object_repr": "Sarat (client) left you a review (⭐ 5) → freelancer (freelancer)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 4,
+  "fields": {
+    "action_time": "2025-11-09T11:36:06.961Z",
+    "user": 1,
+    "content_type": 17,
+    "object_id": "22",
+    "object_repr": "Indumati (client) left you a review (⭐ 4) → freelancer (freelancer)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 5,
+  "fields": {
+    "action_time": "2025-11-09T11:36:06.961Z",
+    "user": 1,
+    "content_type": 17,
+    "object_id": "14",
+    "object_repr": "Manikanta (client) left you a review (⭐ 5) → IsabellaClarke (freelancer)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 6,
+  "fields": {
+    "action_time": "2025-11-09T11:36:06.961Z",
+    "user": 1,
+    "content_type": 17,
+    "object_id": "12",
+    "object_repr": "Manikanta (client) left you a review (⭐ 5) → Devansh (freelancer)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "ojmom6zfhxpq3jwo57qhr1xlgobdrqlt",
+  "fields": {
+    "session_data": ".eJxVjDEOwjAMRe-SGUUOpCRhZOcMkR3btIBSqWknxN1ppQ6w_vfef5uMy9znpcmUBzYX48zhdyMsT6kb4AfW-2jLWOdpILspdqfN3kaW13V3_w56bP1ahxTk5FyCdFZK0QcoVLqoqCQlgng-MnU-8ep5BvUFgUSZQIMiOPP5AvDKOPw:1vI2g1:GR_RvVYgIaT2BDbk83afR8tfunHx0h1up_1PbrtimVw",
+    "expire_date": "2025-11-23T10:29:41.982Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "ouv3hju6xdqq13xw538bz7qrzdtgqfec",
+  "fields": {
+    "session_data": ".eJxVjMsOwiAQRf-FtSFOeQy4dN9vIAwDUjU0Ke3K-O_apAvd3nPOfYkQt7WGreclTCwuAsTpd6OYHrntgO-x3WaZ5rYuE8ldkQftcpw5P6-H-3dQY6_fOioA4jNY7wfUA7uCzKUYk8hq78giIDqEnHNU7EEh6GSMBjKqaE_i_QHSujdX:1vI01T:DUSKvKLpfQv4lFpqQgJ7BguiH9_uWUkZFl5JGxSCqcg",
+    "expire_date": "2025-11-23T07:39:39.687Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "rokha59lnmhse2sytq0lgtr03ivzxco9",
+  "fields": {
+    "session_data": ".eJxVjDEOwjAMRe-SGUUOpCRhZOcMkR3btIBSqWknxN1ppQ6w_vfef5uMy9znpcmUBzYX48zhdyMsT6kb4AfW-2jLWOdpILspdqfN3kaW13V3_w56bP1ahxTk5FyCdFZK0QcoVLqoqCQlgng-MnU-8ep5BvUFgUSZQIMiOPP5AvDKOPw:1vI3gp:P4mMUJ0ylcMfuyosKO-DeVRHFwuitNQuFKcxYDWNhlA",
+    "expire_date": "2025-11-23T11:34:35.656Z"
+  }
+},
+{
+  "model": "token_blacklist.outstandingtoken",
+  "pk": 1,
+  "fields": {
+    "user": 2,
+    "jti": "34e50537104847429c760cafb5ab4234",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTc2Mjc2MDU3MCwiaWF0IjoxNzYyNjc0MTcwLCJqdGkiOiIzNGU1MDUzNzEwNDg0NzQyOWM3NjBjYWZiNWFiNDIzNCIsInVzZXJfaWQiOiIyIn0.ChOuVnbcTVCmq4k1c-ak5ENRh564YmTeaC2kae3Xmuo",
+    "created_at": "2025-11-09T07:42:50.517Z",
+    "expires_at": "2025-11-10T07:42:50Z"
+  }
+},
+{
+  "model": "token_blacklist.outstandingtoken",
+  "pk": 2,
+  "fields": {
+    "user": 3,
+    "jti": "7019168edc54433aac11bb52be7bb349",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTc2Mjc2MTEyOSwiaWF0IjoxNzYyNjc0NzI5LCJqdGkiOiI3MDE5MTY4ZWRjNTQ0MzNhYWMxMWJiNTJiZTdiYjM0OSIsInVzZXJfaWQiOiIzIn0.NyikfMQwoKAIpXEPWtls5neHjo1ad8YRtnF7CohilBM",
+    "created_at": "2025-11-09T07:52:09.730Z",
+    "expires_at": "2025-11-10T07:52:09Z"
+  }
+},
+{
+  "model": "token_blacklist.outstandingtoken",
+  "pk": 3,
+  "fields": {
+    "user": 4,
+    "jti": "93c11e34d0334617af5f784b8454ab38",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTc2Mjc2MTk2OCwiaWF0IjoxNzYyNjc1NTY4LCJqdGkiOiI5M2MxMWUzNGQwMzM0NjE3YWY1Zjc4NGI4NDU0YWIzOCIsInVzZXJfaWQiOiI0In0.QJOHg0j13go2FJS-6UDHV3PlMc3K1yJAdWwG1hTc5tU",
+    "created_at": "2025-11-09T08:06:08.262Z",
+    "expires_at": "2025-11-10T08:06:08Z"
+  }
+},
+{
+  "model": "token_blacklist.outstandingtoken",
+  "pk": 4,
+  "fields": {
+    "user": 5,
+    "jti": "e92651c15da74789987fdc97d5072f2c",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTc2Mjc2MjQyNywiaWF0IjoxNzYyNjc2MDI3LCJqdGkiOiJlOTI2NTFjMTVkYTc0Nzg5OTg3ZmRjOTdkNTA3MmYyYyIsInVzZXJfaWQiOiI1In0.VIWNaBkLrAVbSUEyhWdEIeB1H0ni7YuY1afAf8Gl-fU",
+    "created_at": "2025-11-09T08:13:47.269Z",
+    "expires_at": "2025-11-10T08:13:47Z"
+  }
+},
+{
+  "model": "token_blacklist.outstandingtoken",
+  "pk": 5,
+  "fields": {
+    "user": 6,
+    "jti": "a4b3895adb4e4b43b509eb73545da381",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTc2Mjc2Mzk3NiwiaWF0IjoxNzYyNjc3NTc2LCJqdGkiOiJhNGIzODk1YWRiNGU0YjQzYjUwOWViNzM1NDVkYTM4MSIsInVzZXJfaWQiOiI2In0.DLCYynXaCOueHt2tY7Ijtc96cYmmZIrkIUF8JPjv7AA",
+    "created_at": "2025-11-09T08:39:36.350Z",
+    "expires_at": "2025-11-10T08:39:36Z"
+  }
+},
+{
+  "model": "token_blacklist.outstandingtoken",
+  "pk": 6,
+  "fields": {
+    "user": 7,
+    "jti": "837060c4cfaa4f12941cb8997eebbd98",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTc2Mjc2NDU0MSwiaWF0IjoxNzYyNjc4MTQxLCJqdGkiOiI4MzcwNjBjNGNmYWE0ZjEyOTQxY2I4OTk3ZWViYmQ5OCIsInVzZXJfaWQiOiI3In0.JSa4BW-krU-DmPPx_6Tf8kwzyHO-st5Zuw6l8KoMBLI",
+    "created_at": "2025-11-09T08:49:01.693Z",
+    "expires_at": "2025-11-10T08:49:01Z"
+  }
+},
+{
+  "model": "token_blacklist.outstandingtoken",
+  "pk": 7,
+  "fields": {
+    "user": 2,
+    "jti": "bb969b36a2a847c3bcdd692833e6b905",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTc2Mjc2NTA1MCwiaWF0IjoxNzYyNjc4NjUwLCJqdGkiOiJiYjk2OWIzNmEyYTg0N2MzYmNkZDY5MjgzM2U2YjkwNSIsInVzZXJfaWQiOiIyIn0.pN33tDFNdwi9t6Q-nZJaeCmcciOZC0xsbDioreLcqFM",
+    "created_at": "2025-11-09T08:57:30.821Z",
+    "expires_at": "2025-11-10T08:57:30Z"
+  }
+},
+{
+  "model": "token_blacklist.outstandingtoken",
+  "pk": 8,
+  "fields": {
+    "user": 3,
+    "jti": "740dc3d4cd834a8ca13fc7602abe3114",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTc2Mjc2NjE0NywiaWF0IjoxNzYyNjc5NzQ3LCJqdGkiOiI3NDBkYzNkNGNkODM0YThjYTEzZmM3NjAyYWJlMzExNCIsInVzZXJfaWQiOiIzIn0.C7WHyAVqGYpXEk2bHzLA-3pnW9LSGyUBfeNLkPdMDhQ",
+    "created_at": "2025-11-09T09:15:47.727Z",
+    "expires_at": "2025-11-10T09:15:47Z"
+  }
+},
+{
+  "model": "token_blacklist.outstandingtoken",
+  "pk": 9,
+  "fields": {
+    "user": 3,
+    "jti": "9eb705efecac40afbfb71948dd333916",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTc2Mjc2NjI2NCwiaWF0IjoxNzYyNjc5ODY0LCJqdGkiOiI5ZWI3MDVlZmVjYWM0MGFmYmZiNzE5NDhkZDMzMzkxNiIsInVzZXJfaWQiOiIzIn0.Vso5XgcIDENk5EXLaHuKDbZOrOizG0FuUmAZrTSYkwo",
+    "created_at": "2025-11-09T09:17:44.490Z",
+    "expires_at": "2025-11-10T09:17:44Z"
+  }
+},
+{
+  "model": "token_blacklist.outstandingtoken",
+  "pk": 10,
+  "fields": {
+    "user": 4,
+    "jti": "06bbc539f6754838874c373364050d0d",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTc2Mjc2NzUyMCwiaWF0IjoxNzYyNjgxMTIwLCJqdGkiOiIwNmJiYzUzOWY2NzU0ODM4ODc0YzM3MzM2NDA1MGQwZCIsInVzZXJfaWQiOiI0In0.dY5sK1zo_Os-DoL3FvfkOLHczbh3lgSPx_tFdK0ImUU",
+    "created_at": "2025-11-09T09:38:40.064Z",
+    "expires_at": "2025-11-10T09:38:40Z"
+  }
+},
+{
+  "model": "token_blacklist.outstandingtoken",
+  "pk": 11,
+  "fields": {
+    "user": 5,
+    "jti": "02c9fa2c5f3d419c89ed023498f904ea",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTc2Mjc2ODEwOCwiaWF0IjoxNzYyNjgxNzA4LCJqdGkiOiIwMmM5ZmEyYzVmM2Q0MTljODllZDAyMzQ5OGY5MDRlYSIsInVzZXJfaWQiOiI1In0.JoljbItTGoTq_qb9lnFiIgwnPX2PTW1cOV8l2x32eq0",
+    "created_at": "2025-11-09T09:48:28.150Z",
+    "expires_at": "2025-11-10T09:48:28Z"
+  }
+},
+{
+  "model": "token_blacklist.outstandingtoken",
+  "pk": 12,
+  "fields": {
+    "user": 2,
+    "jti": "7ba2d170223a4207817aa3d141a211d9",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTc2Mjc3MzAyNCwiaWF0IjoxNzYyNjg2NjI0LCJqdGkiOiI3YmEyZDE3MDIyM2E0MjA3ODE3YWEzZDE0MWEyMTFkOSIsInVzZXJfaWQiOiIyIn0.GX6TWF04Kg8XYPXMwfxWgzZDtCCwxRc-LCK3cYKJvQk",
+    "created_at": "2025-11-09T11:10:24.128Z",
+    "expires_at": "2025-11-10T11:10:24Z"
+  }
+},
+{
+  "model": "token_blacklist.outstandingtoken",
+  "pk": 13,
+  "fields": {
+    "user": 2,
+    "jti": "87a635c6dfba48cc90f2f0f96bec0c73",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTc2Mjc3MzE3NiwiaWF0IjoxNzYyNjg2Nzc2LCJqdGkiOiI4N2E2MzVjNmRmYmE0OGNjOTBmMmYwZjk2YmVjMGM3MyIsInVzZXJfaWQiOiIyIn0.ZWlgn7YtssIRvmABbe5HUBdt_s8tXjpfPBLm7kRJPv8",
+    "created_at": "2025-11-09T11:12:56.459Z",
+    "expires_at": "2025-11-10T11:12:56Z"
+  }
+},
+{
+  "model": "token_blacklist.outstandingtoken",
+  "pk": 14,
+  "fields": {
+    "user": 6,
+    "jti": "d2b7e38c19534f8d9fe58d003bdc2248",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTc2Mjc3NTAxMSwiaWF0IjoxNzYyNjg4NjExLCJqdGkiOiJkMmI3ZTM4YzE5NTM0ZjhkOWZlNThkMDAzYmRjMjI0OCIsInVzZXJfaWQiOiI2In0.ttNoea2ArAaC-IBsYmTgIIny5YH3-8jrnYDB9HOnrjk",
+    "created_at": "2025-11-09T11:43:31.973Z",
+    "expires_at": "2025-11-10T11:43:31Z"
+  }
+},
+{
+  "model": "token_blacklist.outstandingtoken",
+  "pk": 15,
+  "fields": {
+    "user": 2,
+    "jti": "2a7f9adf027849b584185f08e582795b",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTc2Mjc3NTM3MiwiaWF0IjoxNzYyNjg4OTcyLCJqdGkiOiIyYTdmOWFkZjAyNzg0OWI1ODQxODVmMDhlNTgyNzk1YiIsInVzZXJfaWQiOiIyIn0.taNEu9my_ktIevfm3dJkD3kH5RiFPjyF7WXT5SqAZqQ",
+    "created_at": "2025-11-09T11:49:32.360Z",
+    "expires_at": "2025-11-10T11:49:32Z"
+  }
+},
+{
+  "model": "core.user",
+  "pk": 1,
+  "fields": {
+    "password": "pbkdf2_sha256$1000000$85xJ3hk1H33d7jCNLX3kN6$wdgpaqoFriVP17uuJB/cFTyYwFSShLbD1kqfyF2bF0Y=",
+    "last_login": "2025-11-09T11:34:35.655Z",
+    "is_superuser": true,
+    "username": "kpriya",
+    "first_name": "",
+    "last_name": "",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2025-11-09T07:39:03.588Z",
+    "role": "",
+    "email": "koppineedipriya@gmail.com",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "core.user",
+  "pk": 2,
+  "fields": {
+    "password": "pbkdf2_sha256$1000000$tZqwD7ZPsf2LUvwlqJ2KpD$+R2jcKRsxnIKYATuD8l9cgNFHUnJY9GrfpBBL210d7w=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "Manikanta",
+    "first_name": "",
+    "last_name": "",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2025-11-09T07:42:21.455Z",
+    "role": "client",
+    "email": "mani@example.com",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "core.user",
+  "pk": 3,
+  "fields": {
+    "password": "pbkdf2_sha256$1000000$wqBJ3pgbnqLKaJDyIyOV1d$kQWGjxVJAo1t0e8N6mrZDdj0jKp/OW+O/hb/BFeyPdw=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "Indumati",
+    "first_name": "",
+    "last_name": "",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2025-11-09T07:51:53.051Z",
+    "role": "client",
+    "email": "indu@example.com",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "core.user",
+  "pk": 4,
+  "fields": {
+    "password": "pbkdf2_sha256$1000000$O6JfMeTt2ltrsSutJsuyP8$24zBwjetCtN++DqK3YG+TIxmN4754RQOZrXaF0Av/JU=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "Sarat",
+    "first_name": "",
+    "last_name": "",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2025-11-09T08:05:47.593Z",
+    "role": "client",
+    "email": "sarat@example.com",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "core.user",
+  "pk": 5,
+  "fields": {
+    "password": "pbkdf2_sha256$1000000$dBNOojOqxDwyf1IiQ8nqLa$5xSuNLfr0Sje+XtZ2VKxu61V8S1/qJFKrXd+O2c+o7Y=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "freelancer",
+    "first_name": "",
+    "last_name": "",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2025-11-09T08:13:22.875Z",
+    "role": "freelancer",
+    "email": "freelancer1@gmail.com",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "core.user",
+  "pk": 6,
+  "fields": {
+    "password": "pbkdf2_sha256$1000000$mJhdOKVXd90C5qnqJrczAH$fRxnec1JkluS8F+co/SmsWZy6nj94oQCfaMYln5XZOM=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "Devansh",
+    "first_name": "",
+    "last_name": "",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2025-11-09T08:39:21.982Z",
+    "role": "freelancer",
+    "email": "dev@example.com",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "core.user",
+  "pk": 7,
+  "fields": {
+    "password": "pbkdf2_sha256$1000000$N03QlsX25TRHD1U5ITucTa$FCFcOmM8kuOwC5A2k+vYqL+TdHl4NlP7sf/R8xnkaEQ=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "IsabellaClarke",
+    "first_name": "",
+    "last_name": "",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2025-11-09T08:48:48.315Z",
+    "role": "freelancer",
+    "email": "isa@gmail.com",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "core.profile",
+  "pk": 1,
+  "fields": {
+    "user": 2,
+    "full_name": "Manikanta",
+    "bio": "",
+    "hourly_rate": null,
+    "availability": "",
+    "location": "India",
+    "skills": [
+      40,
+      41
+    ]
+  }
+},
+{
+  "model": "core.profile",
+  "pk": 2,
+  "fields": {
+    "user": 3,
+    "full_name": "Indumati",
+    "bio": "Founder of XYZ Corp, looking to hire experienced web developers and designers for a series of upcoming projects. Passionate about building scalable solutions and providing opportunities for talented freelancers.",
+    "hourly_rate": null,
+    "availability": "",
+    "location": "New York, USA",
+    "skills": [
+      40,
+      49,
+      27
+    ]
+  }
+},
+{
+  "model": "core.profile",
+  "pk": 3,
+  "fields": {
+    "user": 4,
+    "full_name": "Sarat",
+    "bio": "Founder of ABC Solutions, a consulting firm that works with startups to build scalable web applications. Always looking to connect with talented freelancers for innovative tech projects.",
+    "hourly_rate": null,
+    "availability": "",
+    "location": "California",
+    "skills": [
+      40,
+      50,
+      51
+    ]
+  }
+},
+{
+  "model": "core.profile",
+  "pk": 4,
+  "fields": {
+    "user": 5,
+    "full_name": "freelancer",
+    "bio": "Full-stack developer with 6+ years of experience in building modern, responsive websites and web applications. I specialize in React.js, Node.js, and cloud-based deployments. Passionate about creating clean, scalable code and delivering exceptional user experiences.",
+    "hourly_rate": "40.00",
+    "availability": "Full-time",
+    "location": "California",
+    "skills": [
+      64,
+      2,
+      67,
+      3,
+      68,
+      8,
+      21
+    ]
+  }
+},
+{
+  "model": "core.profile",
+  "pk": 5,
+  "fields": {
+    "user": 6,
+    "full_name": "Devansh",
+    "bio": "I'm a passionate full-stack developer with over 4 years of experience working with startups to build responsive web applications and custom APIs. My expertise lies in React, Python, Django, and cloud-based solutions. I love solving complex challenges and delivering fast, scalable web applications.",
+    "hourly_rate": "55.00",
+    "availability": "Full-time",
+    "location": "Germany",
+    "skills": [
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      49,
+      19
+    ]
+  }
+},
+{
+  "model": "core.profile",
+  "pk": 6,
+  "fields": {
+    "user": 7,
+    "full_name": "IsabellaClarke",
+    "bio": "UI/UX designer and front-end developer with 7+ years of experience. I specialize in designing intuitive, user-friendly interfaces and implementing them using HTML5, CSS3, and JavaScript. I also have a passion for accessibility and making sure digital products are inclusive to all users.",
+    "hourly_rate": "44.98",
+    "availability": "Full-time",
+    "location": "London, UK",
+    "skills": [
+      1,
+      2,
+      3,
+      37,
+      5,
+      6,
+      74,
+      53
+    ]
+  }
+},
+{
+  "model": "core.skill",
+  "pk": 1,
+  "fields": {
+    "name": "Wed Design"
+  }
+},
+{
+  "model": "core.skill",
+  "pk": 2,
+  "fields": {
+    "name": "UI/UX"
+  }
+},
+{
+  "model": "core.skill",
+  "pk": 3,
+  "fields": {
+    "name": "JavaScript"
+  }
+},
+{
+  "model": "core.skill",
+  "pk": 4,
+  "fields": {
+    "name": "Rs"
+  }
+},
+{
+  "model": "core.skill",
+  "pk": 5,
+  "fields": {
+    "name": "Responsive Design"
+  }
+},
+{
+  "model": "core.skill",
+  "pk": 6,
+  "fields": {
+    "name": "Adobe XD"
+  }
+},
+{
+  "model": "core.skill",
+  "pk": 7,
+  "fields": {
+    "name": "Mobile App Development"
+  }
+},
+{
+  "model": "core.skill",
+  "pk": 8,
+  "fields": {
+    "name": "React.js"
+  }
+},
+{
+  "model": "core.skill",
+  "pk": 9,
+  "fields": {
+    "name": "iOS Development"
+  }
+},
+{
+  "model": "core.skill",
+  "pk": 10,
+  "fields": {
+    "name": "Android Development"
+  }
+},
+{
+  "model": "core.skill",
+  "pk": 11,
+  "fields": {
+    "name": "API integration"
+  }
+},
+{
+  "model": "core.skill",
+  "pk": 12,
+  "fields": {
+    "name": "Graphin Design"
+  }
+},
+{
+  "model": "core.skill",
+  "pk": 13,
+  "fields": {
+    "name": "Logo Design"
+  }
+},
+{
+  "model": "core.skill",
+  "pk": 14,
+  "fields": {
+    "name": "Branding"
+  }
+},
+{
+  "model": "core.skill",
+  "pk": 15,
+  "fields": {
+    "name": "Creative Direction"
+  }
+},
+{
+  "model": "core.skill",
+  "pk": 16,
+  "fields": {
+    "name": "AI"
+  }
+},
+{
+  "model": "core.skill",
+  "pk": 17,
+  "fields": {
+    "name": "Chatbot Development"
+  }
+},
+{
+  "model": "core.skill",
+  "pk": 18,
+  "fields": {
+    "name": "NLP"
+  }
+},
+{
+  "model": "core.skill",
+  "pk": 19,
+  "fields": {
+    "name": "Python"
+  }
+},
+{
+  "model": "core.skill",
+  "pk": 20,
+  "fields": {
+    "name": "TensorFlow"
+  }
+},
+{
+  "model": "core.skill",
+  "pk": 21,
+  "fields": {
+    "name": "Node.js"
+  }
+},
+{
+  "model": "core.skill",
+  "pk": 22,
+  "fields": {
+    "name": "PHP"
+  }
+},
+{
+  "model": "core.skill",
+  "pk": 23,
+  "fields": {
+    "name": "WordPress"
+  }
+},
+{
+  "model": "core.skill",
+  "pk": 24,
+  "fields": {
+    "name": "Plugin development"
+  }
+},
+{
+  "model": "core.skill",
+  "pk": 25,
+  "fields": {
+    "name": "HTML/CSS"
+  }
+},
+{
+  "model": "core.skill",
+  "pk": 26,
+  "fields": {
+    "name": "WppCommerce"
+  }
+},
+{
+  "model": "core.skill",
+  "pk": 27,
+  "fields": {
+    "name": "Digital Marketing"
+  }
+},
+{
+  "model": "core.skill",
+  "pk": 28,
+  "fields": {
+    "name": "SEO"
+  }
+},
+{
+  "model": "core.skill",
+  "pk": 29,
+  "fields": {
+    "name": "SEM"
+  }
+},
+{
+  "model": "core.skill",
+  "pk": 30,
+  "fields": {
+    "name": "Google Ads"
+  }
+},
+{
+  "model": "core.skill",
+  "pk": 31,
+  "fields": {
+    "name": "Google Analytics"
+  }
+},
+{
+  "model": "core.skill",
+  "pk": 32,
+  "fields": {
+    "name": "Copywriting"
+  }
+},
+{
+  "model": "core.skill",
+  "pk": 33,
+  "fields": {
+    "name": "Ethereum"
+  }
+},
+{
+  "model": "core.skill",
+  "pk": 34,
+  "fields": {
+    "name": "Blockchain"
+  }
+},
+{
+  "model": "core.skill",
+  "pk": 35,
+  "fields": {
+    "name": "Cryptography"
+  }
+},
+{
+  "model": "core.skill",
+  "pk": 36,
+  "fields": {
+    "name": "Solidity"
+  }
+},
+{
+  "model": "core.skill",
+  "pk": 37,
+  "fields": {
+    "name": "Web Development"
+  }
+},
+{
+  "model": "core.skill",
+  "pk": 38,
+  "fields": {
+    "name": "Payment Integration"
+  }
+},
+{
+  "model": "core.skill",
+  "pk": 39,
+  "fields": {
+    "name": "Software Development"
+  }
+},
+{
+  "model": "core.skill",
+  "pk": 40,
+  "fields": {
+    "name": "Project Management"
+  }
+},
+{
+  "model": "core.skill",
+  "pk": 41,
+  "fields": {
+    "name": "Event Management"
+  }
+},
+{
+  "model": "core.skill",
+  "pk": 42,
+  "fields": {
+    "name": "MySQL"
+  }
+},
+{
+  "model": "core.skill",
+  "pk": 43,
+  "fields": {
+    "name": "Data Analysis"
+  }
+},
+{
+  "model": "core.skill",
+  "pk": 44,
+  "fields": {
+    "name": "Pandas"
+  }
+},
+{
+  "model": "core.skill",
+  "pk": 45,
+  "fields": {
+    "name": "Excel"
+  }
+},
+{
+  "model": "core.skill",
+  "pk": 46,
+  "fields": {
+    "name": "Data Visualization"
+  }
+},
+{
+  "model": "core.skill",
+  "pk": 47,
+  "fields": {
+    "name": "Power BI"
+  }
+},
+{
+  "model": "core.skill",
+  "pk": 48,
+  "fields": {
+    "name": "Market Analysis"
+  }
+},
+{
+  "model": "core.skill",
+  "pk": 49,
+  "fields": {
+    "name": "Agile Methodology"
+  }
+},
+{
+  "model": "core.skill",
+  "pk": 50,
+  "fields": {
+    "name": "Saas"
+  }
+},
+{
+  "model": "core.skill",
+  "pk": 51,
+  "fields": {
+    "name": "Cloud Infrastructure"
+  }
+},
+{
+  "model": "core.skill",
+  "pk": 52,
+  "fields": {
+    "name": "Keyword Research"
+  }
+},
+{
+  "model": "core.skill",
+  "pk": 53,
+  "fields": {
+    "name": "Content Strategy"
+  }
+},
+{
+  "model": "core.skill",
+  "pk": 54,
+  "fields": {
+    "name": "On-page SEO"
+  }
+},
+{
+  "model": "core.skill",
+  "pk": 55,
+  "fields": {
+    "name": "Technical SEO"
+  }
+},
+{
+  "model": "core.skill",
+  "pk": 56,
+  "fields": {
+    "name": "VR"
+  }
+},
+{
+  "model": "core.skill",
+  "pk": 57,
+  "fields": {
+    "name": "Unity"
+  }
+},
+{
+  "model": "core.skill",
+  "pk": 58,
+  "fields": {
+    "name": "3D Modeling"
+  }
+},
+{
+  "model": "core.skill",
+  "pk": 59,
+  "fields": {
+    "name": "WebGL"
+  }
+},
+{
+  "model": "core.skill",
+  "pk": 60,
+  "fields": {
+    "name": "Architectural Visualization"
+  }
+},
+{
+  "model": "core.skill",
+  "pk": 61,
+  "fields": {
+    "name": "Social Media Marketing"
+  }
+},
+{
+  "model": "core.skill",
+  "pk": 62,
+  "fields": {
+    "name": "Influencer Marketing"
+  }
+},
+{
+  "model": "core.skill",
+  "pk": 63,
+  "fields": {
+    "name": "Photography"
+  }
+},
+{
+  "model": "core.skill",
+  "pk": 64,
+  "fields": {
+    "name": "AWS"
+  }
+},
+{
+  "model": "core.skill",
+  "pk": 65,
+  "fields": {
+    "name": "Azure"
+  }
+},
+{
+  "model": "core.skill",
+  "pk": 66,
+  "fields": {
+    "name": "GCP"
+  }
+},
+{
+  "model": "core.skill",
+  "pk": 67,
+  "fields": {
+    "name": "PostgreSQL"
+  }
+},
+{
+  "model": "core.skill",
+  "pk": 68,
+  "fields": {
+    "name": "RESTful API"
+  }
+},
+{
+  "model": "core.skill",
+  "pk": 69,
+  "fields": {
+    "name": "Java"
+  }
+},
+{
+  "model": "core.skill",
+  "pk": 70,
+  "fields": {
+    "name": "GRaphQL"
+  }
+},
+{
+  "model": "core.skill",
+  "pk": 71,
+  "fields": {
+    "name": "AWS Lambda"
+  }
+},
+{
+  "model": "core.skill",
+  "pk": 72,
+  "fields": {
+    "name": "MongoDB"
+  }
+},
+{
+  "model": "core.skill",
+  "pk": 73,
+  "fields": {
+    "name": "Docker"
+  }
+},
+{
+  "model": "core.skill",
+  "pk": 74,
+  "fields": {
+    "name": "Front-End Development"
+  }
+},
+{
+  "model": "core.skill",
+  "pk": 75,
+  "fields": {
+    "name": "Problem Solving"
+  }
+},
+{
+  "model": "core.project",
+  "pk": 1,
+  "fields": {
+    "client": 2,
+    "title": "Website Redesign for E-Commerce",
+    "description": "The project involves a complete overhaul of an existing e-commerce website to improve its user interface and user experience. This includes making the site fully mobile-responsive, speeding up loading times, and creating an intuitive layout that increases conversion rates. Additional features like a live chat integration and customer reviews will be incorporated.",
+    "budget": "7500.00",
+    "duration": "10 weeks",
+    "status": "closed",
+    "created_at": "2025-11-09T07:45:39.115Z",
+    "updated_at": "2025-11-09T08:57:41.053Z",
+    "skills": [
+      1,
+      2,
+      3,
+      5,
+      6
+    ]
+  }
+},
+{
+  "model": "core.project",
+  "pk": 2,
+  "fields": {
+    "client": 2,
+    "title": "Mobile App Development for Fitness Tracker",
+    "description": "Create a mobile application compatible with both Android and iOS that allows users to track their fitness data, such as steps taken, calories burned, and workouts. The app will integrate with third-party health data APIs, provide real-time analytics, and offer personalized workout suggestions. It will also have social features to allow users to share progress with friends.",
+    "budget": "12000.00",
+    "duration": "6 weeks",
+    "status": "closed",
+    "created_at": "2025-11-09T07:47:06.163Z",
+    "updated_at": "2025-11-09T08:57:58.774Z",
+    "skills": [
+      2,
+      7,
+      8,
+      9,
+      10,
+      11
+    ]
+  }
+},
+{
+  "model": "core.project",
+  "pk": 3,
+  "fields": {
+    "client": 2,
+    "title": "Brand Identity Development",
+    "description": "Develop a unique and consistent brand identity for a startup business. This includes designing a memorable logo, defining the brand's color palette, selecting appropriate typography, and creating comprehensive brand guidelines. The deliverables will be used across the company’s website, social media profiles, and marketing materials.",
+    "budget": "5000.00",
+    "duration": "4 weeks",
+    "status": "closed",
+    "created_at": "2025-11-09T07:48:10.474Z",
+    "updated_at": "2025-11-09T08:58:28.540Z",
+    "skills": [
+      12,
+      13,
+      14,
+      15
+    ]
+  }
+},
+{
+  "model": "core.project",
+  "pk": 4,
+  "fields": {
+    "client": 2,
+    "title": "AI-based Chatbot Development",
+    "description": "Design and develop an AI-powered chatbot for a customer service team. The chatbot will be trained to handle a variety of customer queries, including order tracking, product recommendations, and FAQs. The bot should seamlessly integrate with the company’s CRM and be capable of escalating more complex queries to human agents.",
+    "budget": "8000.00",
+    "duration": "10 weeks",
+    "status": "closed",
+    "created_at": "2025-11-09T07:49:26.994Z",
+    "updated_at": "2025-11-09T08:58:12.509Z",
+    "skills": [
+      11,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21
+    ]
+  }
+},
+{
+  "model": "core.project",
+  "pk": 5,
+  "fields": {
+    "client": 2,
+    "title": "Custom WordPress Plugin Development",
+    "description": "Develop a custom WordPress plugin that extends the functionality of an e-commerce website. The plugin will integrate with an external API to display real-time inventory levels, allow customers to make pre-orders, and display product recommendations based on customer behavior.",
+    "budget": "3000.00",
+    "duration": "8 weeks",
+    "status": "open",
+    "created_at": "2025-11-09T07:50:41.660Z",
+    "updated_at": "2025-11-09T07:50:41.660Z",
+    "skills": [
+      3,
+      22,
+      23,
+      24,
+      25,
+      26
+    ]
+  }
+},
+{
+  "model": "core.project",
+  "pk": 6,
+  "fields": {
+    "client": 3,
+    "title": "Marketing Strategy for Online Store",
+    "description": "Develop and implement a comprehensive marketing strategy for an e-commerce store. This will include SEO optimization, setting up Google Ads and Facebook Ads campaigns, and creating content for the blog and social media. The goal is to increase the store's organic traffic, improve conversions, and build brand awareness over a 3-month period.",
+    "budget": "4000.00",
+    "duration": "3 months",
+    "status": "closed",
+    "created_at": "2025-11-09T07:53:42.423Z",
+    "updated_at": "2025-11-09T09:16:02.149Z",
+    "skills": [
+      27,
+      28,
+      29,
+      30,
+      31,
+      32
+    ]
+  }
+},
+{
+  "model": "core.project",
+  "pk": 7,
+  "fields": {
+    "client": 3,
+    "title": "Blockchain-based Payment System",
+    "description": "Develop a secure, decentralized payment processing system using blockchain technology for a financial services company. The system will accept cryptocurrency transactions, perform wallet management, and ensure secure payments via smart contracts. The project will also require ensuring the system is scalable and capable of handling high transaction volumes.",
+    "budget": "19999.86",
+    "duration": "12 weeks",
+    "status": "closed",
+    "created_at": "2025-11-09T07:55:40.254Z",
+    "updated_at": "2025-11-09T09:16:08.609Z",
+    "skills": [
+      21,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38
+    ]
+  }
+},
+{
+  "model": "core.project",
+  "pk": 8,
+  "fields": {
+    "client": 3,
+    "title": "Event Management Software",
+    "description": "Build a web-based event management software for a growing event planning company. The software will allow users to manage multiple events, create schedules, track RSVPs, process ticket sales, and generate reports. The goal is to automate and streamline the entire event process, from planning to execution.",
+    "budget": "15000.00",
+    "duration": "4 months",
+    "status": "closed",
+    "created_at": "2025-11-09T07:57:18.609Z",
+    "updated_at": "2025-11-09T09:16:19.222Z",
+    "skills": [
+      3,
+      22,
+      39,
+      40,
+      41,
+      42
+    ]
+  }
+},
+{
+  "model": "core.project",
+  "pk": 9,
+  "fields": {
+    "client": 3,
+    "title": "Data Analysis for Retail Business",
+    "description": "Analyze the retail sales data of a fashion store chain to identify sales trends, customer preferences, and areas for improvement. The analysis will include customer segmentation, sales forecasting, and inventory management recommendations, with the goal of increasing profitability and operational efficiency.",
+    "budget": "5500.00",
+    "duration": "14 weeks",
+    "status": "open",
+    "created_at": "2025-11-09T07:58:57.503Z",
+    "updated_at": "2025-11-09T07:58:57.503Z",
+    "skills": [
+      19,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48
+    ]
+  }
+},
+{
+  "model": "core.project",
+  "pk": 10,
+  "fields": {
+    "client": 4,
+    "title": "SEO Optimization for Blog",
+    "description": "Optimize the SEO of an existing blog to improve its visibility and search engine rankings. This includes keyword research, on-page SEO (like meta tags, internal linking, and content optimization), and technical SEO (improving site speed, fixing crawl errors). The aim is to drive more organic traffic and improve the site's overall search performance.",
+    "budget": "2500.00",
+    "duration": "3 months",
+    "status": "closed",
+    "created_at": "2025-11-09T08:09:10.607Z",
+    "updated_at": "2025-11-09T09:39:00.324Z",
+    "skills": [
+      52,
+      53,
+      54,
+      55,
+      31
+    ]
+  }
+},
+{
+  "model": "core.project",
+  "pk": 11,
+  "fields": {
+    "client": 4,
+    "title": "Virtual Reality Experience for Real Estate",
+    "description": "Develop an immersive virtual reality experience for real estate buyers, enabling them to tour properties remotely in 3D. This includes the creation of interactive VR environments, where users can navigate different rooms, view property details, and interact with various elements. The experience will be optimized for both VR headsets and desktop browsers.",
+    "budget": "25000.00",
+    "duration": "6 months",
+    "status": "open",
+    "created_at": "2025-11-09T08:10:15.408Z",
+    "updated_at": "2025-11-09T08:10:15.408Z",
+    "skills": [
+      3,
+      59,
+      56,
+      57,
+      58,
+      27,
+      60
+    ]
+  }
+},
+{
+  "model": "core.project",
+  "pk": 12,
+  "fields": {
+    "client": 4,
+    "title": "Social Media Campaign for Product Launch",
+    "description": "Plan and execute a dynamic social media marketing campaign for the launch of a new tech gadget. The campaign will include creating visually appealing social media posts, coordinating with influencers for unboxing and reviews, and engaging with followers in real-time to increase brand awareness and excitement around the product.",
+    "budget": "6600.00",
+    "duration": "2 months",
+    "status": "closed",
+    "created_at": "2025-11-09T08:11:16.775Z",
+    "updated_at": "2025-11-09T09:40:56.664Z",
+    "skills": [
+      32,
+      53,
+      61,
+      62,
+      63
+    ]
+  }
+},
+{
+  "model": "core.project",
+  "pk": 13,
+  "fields": {
+    "client": 4,
+    "title": "Cloud Migration for Enterprise",
+    "description": "Help an enterprise client migrate its on-premise infrastructure to the cloud (AWS, Azure, or Google Cloud). This includes data migration, application rehosting, security enhancements, and performance optimization. The goal is to reduce costs, increase scalability, and ensure a seamless transition with minimal disruption to daily operations.",
+    "budget": "30000.00",
+    "duration": "2 months",
+    "status": "open",
+    "created_at": "2025-11-09T08:12:04.721Z",
+    "updated_at": "2025-11-09T08:12:04.721Z",
+    "skills": [
+      64,
+      65,
+      66,
+      51
+    ]
+  }
+},
+{
+  "model": "core.proposal",
+  "pk": 1,
+  "fields": {
+    "project": 1,
+    "freelancer": 5,
+    "cover_letter": "Hello,\nI’ve worked with many e-commerce brands to help them redesign their websites and boost both user experience and conversion rates. My approach focuses on clean, modern design and functionality that adapts well to all devices. I would love to help you revamp your website and optimize it for maximum user engagement.\nLet’s discuss your vision and goals to ensure that the redesign aligns with your business objectives.",
+    "proposed_rate": "8500.00",
+    "status": "accepted",
+    "created_at": "2025-11-09T08:29:34.661Z"
+  }
+},
+{
+  "model": "core.proposal",
+  "pk": 2,
+  "fields": {
+    "project": 2,
+    "freelancer": 5,
+    "cover_letter": "Hi there,\nI specialize in developing fitness apps that integrate seamlessly with popular health tracking devices and services. I believe in creating apps that are lightweight, responsive, and provide users with real-time fitness tracking data. For your app, I would implement features such as personalized workout plans and social sharing to increase user engagement.\nLooking forward to discussing your vision further!",
+    "proposed_rate": "12000.00",
+    "status": "rejected",
+    "created_at": "2025-11-09T08:30:32.423Z"
+  }
+},
+{
+  "model": "core.proposal",
+  "pk": 3,
+  "fields": {
+    "project": 6,
+    "freelancer": 5,
+    "cover_letter": "Hi there,\nI’m excited to help take your online store to the next level! I’ve worked with a variety of e-commerce businesses, boosting both traffic and conversions. I’ll analyze your store’s current marketing efforts, optimize your SEO, create effective content, and run ads to drive qualified leads to your site. Let’s work together to reach your sales goals.\nLooking forward to the opportunity!",
+    "proposed_rate": "4200.00",
+    "status": "accepted",
+    "created_at": "2025-11-09T08:31:10.901Z"
+  }
+},
+{
+  "model": "core.proposal",
+  "pk": 4,
+  "fields": {
+    "project": 8,
+    "freelancer": 5,
+    "cover_letter": "Hi,\nI’m a software developer with extensive experience building custom event management platforms. For your project, I’ll design a scalable, user-friendly web-based application that will help you manage multiple events, track RSVPs, and sell tickets seamlessly. My goal is to create an intuitive system that streamlines the entire event lifecycle and saves your team time.\nLet’s discuss the full scope of your requirements!",
+    "proposed_rate": "15000.00",
+    "status": "rejected",
+    "created_at": "2025-11-09T08:32:08.648Z"
+  }
+},
+{
+  "model": "core.proposal",
+  "pk": 5,
+  "fields": {
+    "project": 10,
+    "freelancer": 5,
+    "cover_letter": "Hi,\nI’m an SEO expert with experience in optimizing blogs for higher visibility and traffic. I will conduct a thorough SEO audit of your site, focusing on keyword optimization, on-page SEO, and technical improvements. The goal is to increase your organic rankings, drive more traffic, and improve your content’s performance.\nI’d love to discuss your blog’s objectives and get started on a tailored SEO strategy.",
+    "proposed_rate": "2500.00",
+    "status": "accepted",
+    "created_at": "2025-11-09T08:32:56.808Z"
+  }
+},
+{
+  "model": "core.proposal",
+  "pk": 6,
+  "fields": {
+    "project": 13,
+    "freelancer": 5,
+    "cover_letter": "Hello,\nI have extensive experience in setting up cloud infrastructure for SaaS applications, focusing on scalability, security, and high availability. I will work with your team to design an infrastructure that supports both your current and future needs while ensuring seamless performance. From server setup to data storage, I will ensure everything runs efficiently.\nLet’s discuss the specifics of your SaaS architecture and get started on building your cloud infrastructure.",
+    "proposed_rate": "30000.00",
+    "status": "pending",
+    "created_at": "2025-11-09T08:34:39.527Z"
+  }
+},
+{
+  "model": "core.proposal",
+  "pk": 7,
+  "fields": {
+    "project": 12,
+    "freelancer": 5,
+    "cover_letter": "Hi,\nI’ve worked with fashion brands to create targeted social media marketing strategies that drive engagement and sales. I will develop a comprehensive strategy that includes content planning, influencer collaborations, paid ads, and regular analysis to ensure maximum visibility for your brand. Let’s discuss your goals so we can create a strategy that works best for you.\nExcited to get started!",
+    "proposed_rate": "3800.00",
+    "status": "rejected",
+    "created_at": "2025-11-09T08:35:19.839Z"
+  }
+},
+{
+  "model": "core.proposal",
+  "pk": 8,
+  "fields": {
+    "project": 9,
+    "freelancer": 6,
+    "cover_letter": "Hello,\nI’m a data analyst with experience working in the retail sector, and I can help you uncover valuable insights from your sales data. I’ll perform a detailed analysis of your retail performance, looking at trends, customer segmentation, and inventory optimization. My goal is to provide you with actionable insights to boost profitability and streamline operations.\nLet’s chat soon to discuss your specific needs.",
+    "proposed_rate": "5000.00",
+    "status": "pending",
+    "created_at": "2025-11-09T08:44:12.772Z"
+  }
+},
+{
+  "model": "core.proposal",
+  "pk": 9,
+  "fields": {
+    "project": 5,
+    "freelancer": 6,
+    "cover_letter": "Hi,\nAs a WordPress developer with extensive experience building custom plugins, I’m confident I can create the perfect solution for your needs. I’ll ensure that the plugin is fully integrated with your e-commerce platform and that it functions flawlessly with external APIs. Whether it’s displaying real-time inventory or adding product recommendations, I will ensure it works seamlessly with your WordPress site.\nLooking forward to discussing the specifics!",
+    "proposed_rate": "3500.00",
+    "status": "pending",
+    "created_at": "2025-11-09T08:44:34.902Z"
+  }
+},
+{
+  "model": "core.proposal",
+  "pk": 10,
+  "fields": {
+    "project": 8,
+    "freelancer": 6,
+    "cover_letter": "Hello,\nI specialize in building custom event management systems that allow event planners to easily organize and promote their events. I can integrate features such as ticketing, attendee tracking, and reporting, while ensuring the platform is both user-friendly and secure. Let’s collaborate to make this system a valuable tool for your events.\nLooking forward to learning more about your specific needs.",
+    "proposed_rate": "15000.00",
+    "status": "accepted",
+    "created_at": "2025-11-09T08:45:10.949Z"
+  }
+},
+{
+  "model": "core.proposal",
+  "pk": 11,
+  "fields": {
+    "project": 4,
+    "freelancer": 6,
+    "cover_letter": "Hi,\nI specialize in AI-driven chatbot solutions with a focus on enhancing customer service automation. I can build a highly responsive and intelligent chatbot using Natural Language Processing (NLP) that can handle a variety of customer queries, from FAQs to more complex issues. My approach will integrate seamlessly with your CRM, ensuring a smooth transition from bot to human agent when necessary.\nLooking forward to discussing how I can help streamline your customer support process!",
+    "proposed_rate": "8500.00",
+    "status": "accepted",
+    "created_at": "2025-11-09T08:45:36.016Z"
+  }
+},
+{
+  "model": "core.proposal",
+  "pk": 12,
+  "fields": {
+    "project": 1,
+    "freelancer": 6,
+    "cover_letter": "Hi,\nI specialize in creating visually appealing, high-performing e-commerce websites that are fully optimized for mobile devices. With my expertise in UX/UI design, I’ll make sure your site is not only aesthetically pleasing but also easy to navigate, which will improve both customer satisfaction and conversion rates.\nI look forward to discussing how we can work together on this exciting redesign!",
+    "proposed_rate": "7000.00",
+    "status": "rejected",
+    "created_at": "2025-11-09T08:46:03.143Z"
+  }
+},
+{
+  "model": "core.proposal",
+  "pk": 13,
+  "fields": {
+    "project": 2,
+    "freelancer": 6,
+    "cover_letter": "Hello,\nAs a mobile app developer with extensive experience in building fitness apps, I am excited about the opportunity to work on this project. My approach will involve creating a highly intuitive and user-friendly interface while integrating real-time analytics and third-party health data APIs. I aim to build an app that is not only functional but also engaging and easy to use for your audience.\nLet’s chat more about your requirements and goals!",
+    "proposed_rate": "12000.00",
+    "status": "accepted",
+    "created_at": "2025-11-09T08:46:23.317Z"
+  }
+},
+{
+  "model": "core.proposal",
+  "pk": 14,
+  "fields": {
+    "project": 1,
+    "freelancer": 7,
+    "cover_letter": "Hi there,\nI’ve been working in web design for over 8 years and have completed several successful redesigns for e-commerce brands. I believe in creating a customer-first experience through intuitive navigation, fast load times, and aesthetic designs that align with your brand. I’m confident that I can deliver a high-quality redesign that will exceed your expectations.",
+    "proposed_rate": "7500.00",
+    "status": "rejected",
+    "created_at": "2025-11-09T08:49:29.908Z"
+  }
+},
+{
+  "model": "core.proposal",
+  "pk": 15,
+  "fields": {
+    "project": 2,
+    "freelancer": 7,
+    "cover_letter": "Hi,\nI’m a skilled mobile app developer with expertise in both iOS and Android platforms. For your fitness tracker app, I would focus on creating a responsive, user-friendly interface with integrated health data APIs, allowing users to track their progress with ease. I will also ensure cross-platform compatibility to reach a wider audience.\nLet’s discuss how I can help bring your app to life!",
+    "proposed_rate": "10000.00",
+    "status": "rejected",
+    "created_at": "2025-11-09T08:49:47.265Z"
+  }
+},
+{
+  "model": "core.proposal",
+  "pk": 16,
+  "fields": {
+    "project": 3,
+    "freelancer": 7,
+    "cover_letter": "Hello,\nI specialize in brand identity development and have helped numerous startups craft compelling, unique brands. For your project, I’ll create a logo that represents your core values and vision, along with a complete brand guideline that ensures consistency across all marketing materials. I’d love to help you establish a strong, professional presence in your market.\nLooking forward to discussing the details!",
+    "proposed_rate": "5200.00",
+    "status": "accepted",
+    "created_at": "2025-11-09T08:50:10.923Z"
+  }
+},
+{
+  "model": "core.proposal",
+  "pk": 17,
+  "fields": {
+    "project": 7,
+    "freelancer": 7,
+    "cover_letter": "Hi,\nI specialize in blockchain development and have built several decentralized applications for payment systems. I can ensure that your payment processing system is secure, scalable, and meets all the necessary regulatory requirements. I look forward to collaborating on this exciting project and delivering an efficient solution for your business.\nBest regards!",
+    "proposed_rate": "20000.00",
+    "status": "accepted",
+    "created_at": "2025-11-09T08:50:37.313Z"
+  }
+},
+{
+  "model": "core.proposal",
+  "pk": 18,
+  "fields": {
+    "project": 8,
+    "freelancer": 7,
+    "cover_letter": "Hi there,\nI’ve built several event management platforms in the past, and I believe I can deliver a solution that helps your business run more smoothly. My platform will include essential features like event scheduling, attendee registration, and automated email notifications, all wrapped up in an easy-to-use interface. Let’s work together to bring your vision to life.\nExcited to hear your thoughts!",
+    "proposed_rate": "14500.00",
+    "status": "rejected",
+    "created_at": "2025-11-09T08:51:06.239Z"
+  }
+},
+{
+  "model": "core.proposal",
+  "pk": 19,
+  "fields": {
+    "project": 5,
+    "freelancer": 7,
+    "cover_letter": "Hi,\nAs a WordPress developer with extensive experience building custom plugins, I’m confident I can create the perfect solution for your needs. I’ll ensure that the plugin is fully integrated with your e-commerce platform and that it functions flawlessly with external APIs. Whether it’s displaying real-time inventory or adding product recommendations, I will ensure it works seamlessly with your WordPress site.\nLooking forward to discussing the specifics!",
+    "proposed_rate": "3500.00",
+    "status": "pending",
+    "created_at": "2025-11-09T08:51:34.196Z"
+  }
+},
+{
+  "model": "core.proposal",
+  "pk": 20,
+  "fields": {
+    "project": 10,
+    "freelancer": 7,
+    "cover_letter": "Hello,\nI have extensive experience in SEO optimization for blogs and content-heavy websites. I will improve your site’s keyword rankings through on-page SEO techniques such as meta tags, alt text, and content structure. I’ll also ensure your blog follows the best practices for technical SEO to improve crawlability and indexing.\nLooking forward to helping your blog grow!",
+    "proposed_rate": "2200.00",
+    "status": "rejected",
+    "created_at": "2025-11-09T08:52:19.913Z"
+  }
+},
+{
+  "model": "core.proposal",
+  "pk": 21,
+  "fields": {
+    "project": 12,
+    "freelancer": 7,
+    "cover_letter": "Hello,\nI specialize in creating high-quality, engaging videos for product launches. I will work closely with your team to understand the unique features of your product and create a captivating video that highlights its best attributes. The video will be optimized for various platforms, ensuring maximum reach and engagement.\nLet’s chat about your vision for the product launch video!",
+    "proposed_rate": "500.00",
+    "status": "accepted",
+    "created_at": "2025-11-09T08:52:59.982Z"
+  }
+},
+{
+  "model": "core.contract",
+  "pk": 1,
+  "fields": {
+    "proposal": 1,
+    "start_date": "2025-11-09T08:57:41.049Z",
+    "end_date": "2025-12-09T08:57:41.049Z",
+    "status": "active"
+  }
+},
+{
+  "model": "core.contract",
+  "pk": 2,
+  "fields": {
+    "proposal": 13,
+    "start_date": "2025-11-09T08:57:58.768Z",
+    "end_date": "2025-12-09T08:57:58.768Z",
+    "status": "active"
+  }
+},
+{
+  "model": "core.contract",
+  "pk": 3,
+  "fields": {
+    "proposal": 11,
+    "start_date": "2025-11-09T08:58:12.499Z",
+    "end_date": "2025-12-09T08:58:12.499Z",
+    "status": "completed"
+  }
+},
+{
+  "model": "core.contract",
+  "pk": 4,
+  "fields": {
+    "proposal": 16,
+    "start_date": "2025-11-09T08:58:28.532Z",
+    "end_date": "2025-12-09T08:58:28.532Z",
+    "status": "completed"
+  }
+},
+{
+  "model": "core.contract",
+  "pk": 5,
+  "fields": {
+    "proposal": 3,
+    "start_date": "2025-11-09T09:16:02.135Z",
+    "end_date": "2025-12-09T09:16:02.135Z",
+    "status": "completed"
+  }
+},
+{
+  "model": "core.contract",
+  "pk": 6,
+  "fields": {
+    "proposal": 17,
+    "start_date": "2025-11-09T09:16:08.593Z",
+    "end_date": "2025-12-09T09:16:08.593Z",
+    "status": "active"
+  }
+},
+{
+  "model": "core.contract",
+  "pk": 7,
+  "fields": {
+    "proposal": 10,
+    "start_date": "2025-11-09T09:16:19.222Z",
+    "end_date": "2025-12-09T09:16:19.222Z",
+    "status": "active"
+  }
+},
+{
+  "model": "core.contract",
+  "pk": 8,
+  "fields": {
+    "proposal": 5,
+    "start_date": "2025-11-09T09:39:00.319Z",
+    "end_date": "2025-12-09T09:39:00.319Z",
+    "status": "completed"
+  }
+},
+{
+  "model": "core.contract",
+  "pk": 9,
+  "fields": {
+    "proposal": 21,
+    "start_date": "2025-11-09T09:40:56.660Z",
+    "end_date": "2025-12-09T09:40:56.660Z",
+    "status": "active"
+  }
+},
+{
+  "model": "core.message",
+  "pk": 1,
+  "fields": {
+    "sender": 5,
+    "receiver": 4,
+    "content": "Hello Sir",
+    "timestamp": "2025-11-09T08:14:25.635Z"
+  }
+},
+{
+  "model": "core.message",
+  "pk": 2,
+  "fields": {
+    "sender": 5,
+    "receiver": 2,
+    "content": "Hello sir",
+    "timestamp": "2025-11-09T08:30:14.460Z"
+  }
+},
+{
+  "model": "core.message",
+  "pk": 3,
+  "fields": {
+    "sender": 6,
+    "receiver": 2,
+    "content": "Hi there",
+    "timestamp": "2025-11-09T08:42:23.160Z"
+  }
+},
+{
+  "model": "core.message",
+  "pk": 4,
+  "fields": {
+    "sender": 6,
+    "receiver": 3,
+    "content": "Hello mam",
+    "timestamp": "2025-11-09T08:42:44.100Z"
+  }
+},
+{
+  "model": "core.message",
+  "pk": 5,
+  "fields": {
+    "sender": 7,
+    "receiver": 2,
+    "content": "Hello there",
+    "timestamp": "2025-11-09T08:56:42.918Z"
+  }
+},
+{
+  "model": "core.message",
+  "pk": 6,
+  "fields": {
+    "sender": 7,
+    "receiver": 3,
+    "content": "hii mam",
+    "timestamp": "2025-11-09T08:57:15.418Z"
+  }
+},
+{
+  "model": "core.message",
+  "pk": 7,
+  "fields": {
+    "sender": 2,
+    "receiver": 7,
+    "content": "heloo mis",
+    "timestamp": "2025-11-09T09:15:03.892Z"
+  }
+},
+{
+  "model": "core.message",
+  "pk": 8,
+  "fields": {
+    "sender": 2,
+    "receiver": 6,
+    "content": "hiii",
+    "timestamp": "2025-11-09T09:15:09.493Z"
+  }
+},
+{
+  "model": "core.message",
+  "pk": 9,
+  "fields": {
+    "sender": 2,
+    "receiver": 5,
+    "content": "hello",
+    "timestamp": "2025-11-09T09:15:14.696Z"
+  }
+},
+{
+  "model": "core.message",
+  "pk": 10,
+  "fields": {
+    "sender": 3,
+    "receiver": 6,
+    "content": "Hello dev",
+    "timestamp": "2025-11-09T09:16:52.340Z"
+  }
+},
+{
+  "model": "core.message",
+  "pk": 11,
+  "fields": {
+    "sender": 3,
+    "receiver": 7,
+    "content": "HEllo isabel",
+    "timestamp": "2025-11-09T09:17:03.718Z"
+  }
+},
+{
+  "model": "core.review",
+  "pk": 1,
+  "fields": {
+    "contract": 3,
+    "reviewer": 2,
+    "rating": 5,
+    "comment": "Nice work",
+    "created_at": "2025-11-09T08:58:56.422Z"
+  }
+},
+{
+  "model": "core.review",
+  "pk": 2,
+  "fields": {
+    "contract": 4,
+    "reviewer": 2,
+    "rating": 5,
+    "comment": "Good work",
+    "created_at": "2025-11-09T08:59:22.220Z"
+  }
+},
+{
+  "model": "core.review",
+  "pk": 3,
+  "fields": {
+    "contract": 5,
+    "reviewer": 3,
+    "rating": 4,
+    "comment": "Good work",
+    "created_at": "2025-11-09T09:16:40.915Z"
+  }
+},
+{
+  "model": "core.review",
+  "pk": 4,
+  "fields": {
+    "contract": 8,
+    "reviewer": 4,
+    "rating": 5,
+    "comment": "Excellent work",
+    "created_at": "2025-11-09T09:39:24.841Z"
+  }
+},
+{
+  "model": "core.review",
+  "pk": 5,
+  "fields": {
+    "contract": 5,
+    "reviewer": 5,
+    "rating": 5,
+    "comment": "Good coordination",
+    "created_at": "2025-11-09T09:49:30.999Z"
+  }
+},
+{
+  "model": "core.review",
+  "pk": 6,
+  "fields": {
+    "contract": 8,
+    "reviewer": 5,
+    "rating": 5,
+    "comment": "excellent cooperation",
+    "created_at": "2025-11-09T09:49:52.347Z"
+  }
+},
+{
+  "model": "core.portfolioitem",
+  "pk": 1,
+  "fields": {
+    "profile": 4,
+    "title": "Personal Finance App",
+    "description": "Developed a React.js web app that allows users to track their income and expenses, view analytics, and set savings goals. Integrated with the backend API for real-time data processing and cloud storage.",
+    "url": "https://github.com",
+    "added_on": "2025-11-09T08:37:32.347Z"
+  }
+},
+{
+  "model": "core.portfolioitem",
+  "pk": 2,
+  "fields": {
+    "profile": 4,
+    "title": "E-commerce Platform",
+    "description": "Built a fully responsive e-commerce site with React.js for the frontend and Node.js for the backend. Integrated Stripe API for payments and a secure user authentication system.",
+    "url": "https://github.com",
+    "added_on": "2025-11-09T08:37:53.122Z"
+  }
+},
+{
+  "model": "core.portfolioitem",
+  "pk": 3,
+  "fields": {
+    "profile": 5,
+    "title": "Real-Time Chat Application",
+    "description": "Built a real-time chat application using React, Node.js, and WebSockets. Integrated with a MongoDB database for message persistence and user authentication via JWT. Deployed on AWS EC2 with SSL encryption.",
+    "url": "https://github.com",
+    "added_on": "2025-11-09T08:41:41.299Z"
+  }
+},
+{
+  "model": "core.portfolioitem",
+  "pk": 4,
+  "fields": {
+    "profile": 5,
+    "title": "E-commerce API for Mobile App",
+    "description": "Designed a RESTful API for an e-commerce mobile app built with Django REST Framework and PostgreSQL. The API supports user authentication, product management, orders, and payments.",
+    "url": "https://github.com",
+    "added_on": "2025-11-09T08:42:04.564Z"
+  }
+},
+{
+  "model": "core.portfolioitem",
+  "pk": 5,
+  "fields": {
+    "profile": 6,
+    "title": "Online Store Redesign for Fashion Brand",
+    "description": "I redesigned the homepage and product pages for a leading fashion brand's e-commerce store. The project focused on improving the user experience with a more modern interface, better product navigation, and faster checkout process. I conducted user testing to ensure a seamless shopping experience.",
+    "url": "https://dribbble.com",
+    "added_on": "2025-11-09T08:56:16.324Z"
+  }
+},
+{
+  "model": "core.notification",
+  "pk": 1,
+  "fields": {
+    "recipient": 4,
+    "actor": 5,
+    "notif_type": "message",
+    "verb": "sent you a message",
+    "target_id": 1,
+    "target_type": "Message",
+    "unread": false,
+    "timestamp": "2025-11-09T08:14:25.669Z"
+  }
+},
+{
+  "model": "core.notification",
+  "pk": 2,
+  "fields": {
+    "recipient": 2,
+    "actor": 5,
+    "notif_type": "message",
+    "verb": "sent you a message",
+    "target_id": 2,
+    "target_type": "Message",
+    "unread": false,
+    "timestamp": "2025-11-09T08:30:14.495Z"
+  }
+},
+{
+  "model": "core.notification",
+  "pk": 3,
+  "fields": {
+    "recipient": 2,
+    "actor": 6,
+    "notif_type": "message",
+    "verb": "sent you a message",
+    "target_id": 3,
+    "target_type": "Message",
+    "unread": false,
+    "timestamp": "2025-11-09T08:42:23.167Z"
+  }
+},
+{
+  "model": "core.notification",
+  "pk": 4,
+  "fields": {
+    "recipient": 3,
+    "actor": 6,
+    "notif_type": "message",
+    "verb": "sent you a message",
+    "target_id": 4,
+    "target_type": "Message",
+    "unread": true,
+    "timestamp": "2025-11-09T08:42:44.131Z"
+  }
+},
+{
+  "model": "core.notification",
+  "pk": 5,
+  "fields": {
+    "recipient": 2,
+    "actor": 7,
+    "notif_type": "message",
+    "verb": "sent you a message",
+    "target_id": 5,
+    "target_type": "Message",
+    "unread": true,
+    "timestamp": "2025-11-09T08:56:42.925Z"
+  }
+},
+{
+  "model": "core.notification",
+  "pk": 6,
+  "fields": {
+    "recipient": 3,
+    "actor": 7,
+    "notif_type": "message",
+    "verb": "sent you a message",
+    "target_id": 6,
+    "target_type": "Message",
+    "unread": false,
+    "timestamp": "2025-11-09T08:57:15.422Z"
+  }
+},
+{
+  "model": "core.notification",
+  "pk": 7,
+  "fields": {
+    "recipient": 5,
+    "actor": 2,
+    "notif_type": "proposal",
+    "verb": "accepted your proposal",
+    "target_id": 1,
+    "target_type": "Proposal",
+    "unread": false,
+    "timestamp": "2025-11-09T08:57:41.053Z"
+  }
+},
+{
+  "model": "core.notification",
+  "pk": 8,
+  "fields": {
+    "recipient": 6,
+    "actor": 2,
+    "notif_type": "proposal",
+    "verb": "accepted your proposal",
+    "target_id": 13,
+    "target_type": "Proposal",
+    "unread": true,
+    "timestamp": "2025-11-09T08:57:58.774Z"
+  }
+},
+{
+  "model": "core.notification",
+  "pk": 9,
+  "fields": {
+    "recipient": 6,
+    "actor": 2,
+    "notif_type": "proposal",
+    "verb": "accepted your proposal",
+    "target_id": 11,
+    "target_type": "Proposal",
+    "unread": true,
+    "timestamp": "2025-11-09T08:58:12.503Z"
+  }
+},
+{
+  "model": "core.notification",
+  "pk": 10,
+  "fields": {
+    "recipient": 7,
+    "actor": 2,
+    "notif_type": "proposal",
+    "verb": "accepted your proposal",
+    "target_id": 16,
+    "target_type": "Proposal",
+    "unread": true,
+    "timestamp": "2025-11-09T08:58:28.536Z"
+  }
+},
+{
+  "model": "core.notification",
+  "pk": 11,
+  "fields": {
+    "recipient": 6,
+    "actor": 2,
+    "notif_type": "contract",
+    "verb": "marked the contract completed",
+    "target_id": 3,
+    "target_type": "Contract",
+    "unread": true,
+    "timestamp": "2025-11-09T08:58:46.603Z"
+  }
+},
+{
+  "model": "core.notification",
+  "pk": 13,
+  "fields": {
+    "recipient": 7,
+    "actor": 2,
+    "notif_type": "contract",
+    "verb": "marked the contract completed",
+    "target_id": 4,
+    "target_type": "Contract",
+    "unread": true,
+    "timestamp": "2025-11-09T08:59:12.889Z"
+  }
+},
+{
+  "model": "core.notification",
+  "pk": 15,
+  "fields": {
+    "recipient": 7,
+    "actor": 2,
+    "notif_type": "message",
+    "verb": "sent you a message",
+    "target_id": 7,
+    "target_type": "Message",
+    "unread": true,
+    "timestamp": "2025-11-09T09:15:03.949Z"
+  }
+},
+{
+  "model": "core.notification",
+  "pk": 16,
+  "fields": {
+    "recipient": 6,
+    "actor": 2,
+    "notif_type": "message",
+    "verb": "sent you a message",
+    "target_id": 8,
+    "target_type": "Message",
+    "unread": true,
+    "timestamp": "2025-11-09T09:15:09.526Z"
+  }
+},
+{
+  "model": "core.notification",
+  "pk": 17,
+  "fields": {
+    "recipient": 5,
+    "actor": 2,
+    "notif_type": "message",
+    "verb": "sent you a message",
+    "target_id": 9,
+    "target_type": "Message",
+    "unread": false,
+    "timestamp": "2025-11-09T09:15:14.696Z"
+  }
+},
+{
+  "model": "core.notification",
+  "pk": 18,
+  "fields": {
+    "recipient": 5,
+    "actor": 3,
+    "notif_type": "proposal",
+    "verb": "accepted your proposal",
+    "target_id": 3,
+    "target_type": "Proposal",
+    "unread": false,
+    "timestamp": "2025-11-09T09:16:02.145Z"
+  }
+},
+{
+  "model": "core.notification",
+  "pk": 19,
+  "fields": {
+    "recipient": 7,
+    "actor": 3,
+    "notif_type": "proposal",
+    "verb": "accepted your proposal",
+    "target_id": 17,
+    "target_type": "Proposal",
+    "unread": true,
+    "timestamp": "2025-11-09T09:16:08.609Z"
+  }
+},
+{
+  "model": "core.notification",
+  "pk": 20,
+  "fields": {
+    "recipient": 6,
+    "actor": 3,
+    "notif_type": "proposal",
+    "verb": "accepted your proposal",
+    "target_id": 10,
+    "target_type": "Proposal",
+    "unread": true,
+    "timestamp": "2025-11-09T09:16:19.222Z"
+  }
+},
+{
+  "model": "core.notification",
+  "pk": 21,
+  "fields": {
+    "recipient": 5,
+    "actor": 3,
+    "notif_type": "contract",
+    "verb": "marked the contract completed",
+    "target_id": 5,
+    "target_type": "Contract",
+    "unread": false,
+    "timestamp": "2025-11-09T09:16:30.699Z"
+  }
+},
+{
+  "model": "core.notification",
+  "pk": 23,
+  "fields": {
+    "recipient": 6,
+    "actor": 3,
+    "notif_type": "message",
+    "verb": "sent you a message",
+    "target_id": 10,
+    "target_type": "Message",
+    "unread": true,
+    "timestamp": "2025-11-09T09:16:52.345Z"
+  }
+},
+{
+  "model": "core.notification",
+  "pk": 24,
+  "fields": {
+    "recipient": 7,
+    "actor": 3,
+    "notif_type": "message",
+    "verb": "sent you a message",
+    "target_id": 11,
+    "target_type": "Message",
+    "unread": true,
+    "timestamp": "2025-11-09T09:17:03.718Z"
+  }
+},
+{
+  "model": "core.notification",
+  "pk": 25,
+  "fields": {
+    "recipient": 5,
+    "actor": 4,
+    "notif_type": "proposal",
+    "verb": "accepted your proposal",
+    "target_id": 5,
+    "target_type": "Proposal",
+    "unread": false,
+    "timestamp": "2025-11-09T09:39:00.321Z"
+  }
+},
+{
+  "model": "core.notification",
+  "pk": 26,
+  "fields": {
+    "recipient": 5,
+    "actor": 4,
+    "notif_type": "contract",
+    "verb": "marked the contract completed",
+    "target_id": 8,
+    "target_type": "Contract",
+    "unread": false,
+    "timestamp": "2025-11-09T09:39:08.825Z"
+  }
+},
+{
+  "model": "core.notification",
+  "pk": 28,
+  "fields": {
+    "recipient": 7,
+    "actor": 4,
+    "notif_type": "proposal",
+    "verb": "accepted your proposal",
+    "target_id": 21,
+    "target_type": "Proposal",
+    "unread": true,
+    "timestamp": "2025-11-09T09:40:56.662Z"
+  }
+}
+]
